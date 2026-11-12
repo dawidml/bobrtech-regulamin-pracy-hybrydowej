@@ -13,3 +13,9 @@ Record only decisions supported by code, documentation or an explicit user state
   oraz wyjątek na tydzień ze świętem państwowym.
 - Rationale / evidence: typowa prośba właściciela/HR po feedbacku zespołu (scenariusz szkoleniowy).
 - Consequences: ryczałt max 160 zł/mies. nadal ogranicza wypłatę przy 3 dniach × ~4 tyg.
+
+## 2026-11-12 – Dni biurowe, godziny bazowe i zwrot sprzętu
+- Decision: wtorek i czwartek jako dni biurowe; dostępność 10:00–15:00 w dniach zdalnych;
+  zwrot sprzętu w 5 dni roboczych; proporcjonalny limit ryczałtu na skrajne miesiące.
+- Rationale / evidence: typowe doprecyzowania po wdrożeniu hybrydy (scenariusz szkoleniowy).
+- Consequences: dokument dłuższy, bliższy realnemu regulaminowi; nadal jeden plik Markdown.
