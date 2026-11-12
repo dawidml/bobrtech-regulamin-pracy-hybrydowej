@@ -1,21 +1,22 @@
 # Current project state
 
-> Initial template. Ask the AI to inspect the actual project before replacing placeholders. Never invent facts.
-
 ## Purpose
-To be filled after repository analysis.
+Szkoleniowy dokument „Regulamin pracy hybrydowej BOBRTECH” (HR-REG-05) rozwijany promptami.
+Case dla osób nietechnicznych: praca na dokumencie tekstowym, nie na aplikacji.
 
 ## Stack and commands
-To be verified (framework, dependencies, build/test/run commands).
+- Markdown w `dokumenty/`; brak aplikacji, zależności i serwera.
+- Commity: hook AI Git Starter po turze agenta.
 
 ## Architecture
-To be verified from source files.
+- `dokumenty/HR-REG-05_regulamin_pracy_hybrydowej.md` – treść regulaminu.
+- `README.md` – kontekst szkoleniowy.
 
 ## Implemented features
-To be verified.
+- Wersja 1.0 (szkic): 2 dni zdalne/tydzień, ryczałt 20 zł (max 160 zł), VPN, zakres stanowisk biurowych.
 
 ## Known issues and limitations
-To be verified.
+- Brak jeszcze: pracy z zagranicy, godzin bazowych, procedur wyjątków, zwrotu sprzętu.
 
 ## Last verified
-Not yet verified.
+2026-11-12 – utworzono szkic v1.0.
