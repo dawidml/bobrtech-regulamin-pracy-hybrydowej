@@ -19,3 +19,8 @@ Record only decisions supported by code, documentation or an explicit user state
   zwrot sprzętu w 5 dni roboczych; proporcjonalny limit ryczałtu na skrajne miesiące.
 - Rationale / evidence: typowe doprecyzowania po wdrożeniu hybrydy (scenariusz szkoleniowy).
 - Consequences: dokument dłuższy, bliższy realnemu regulaminowi; nadal jeden plik Markdown.
+
+## 2026-11-12 – Redakcja tonu i FAQ dla kierowników
+- Decision: złagodzono opis odwołania dnia zdalnego (informacja + dzień zamienny); dodano FAQ (§7).
+- Rationale / evidence: regulamin ma być czytelny dla nietechnicznych kierowników.
+- Consequences: wersja merytoryczna pozostaje 1.2 (doprecyzowanie, bez zmiany limitów).

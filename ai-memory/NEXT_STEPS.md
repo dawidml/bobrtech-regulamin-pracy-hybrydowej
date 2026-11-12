@@ -1,7 +1,9 @@
 # Next steps
 
 ## Confirmed priorities
-- [ ] Inspect code and verify project state.
+- [x] Szkic regulaminu v1.0
+- [x] Iteracje v1.1 i v1.2 (limity, zagranica, dni biurowe, ryczałt, FAQ)
+- [x] README wyjaśniający case dokumentowy
 
 ## In progress
 None recorded.
@@ -10,4 +12,4 @@ None recorded.
 None recorded.
 
 ## Suggestions (not confirmed)
-None recorded.
+- Opcjonalnie dodać prosty szablon wniosku (Markdown) jako załącznik szkoleniowy.

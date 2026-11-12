@@ -9,6 +9,7 @@ Kalkulator delegacji pokazuje budowanie małej aplikacji.
 Ten repozytorium pokazuje case bliższy codziennej pracy osób nietechnicznych:
 przedsiębiorca, HR lub menedżer **iteracyjnie zmienia regulamin** (limity dni, ryczałt, wyjątki),
 a Git i AI Prompt Timeline zapisują każdy prompt i wynikającą z niego zmianę w dokumencie.
+Tu widać pracę na regulaminie (tekst), a nie pisanie kodu aplikacji.
 
 ## Dokument
 
