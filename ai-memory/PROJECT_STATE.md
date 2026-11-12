@@ -13,10 +13,12 @@ Case dla osób nietechnicznych: praca na dokumencie tekstowym, nie na aplikacji.
 - `README.md` – kontekst szkoleniowy.
 
 ## Implemented features
-- Wersja 1.0 (szkic): 2 dni zdalne/tydzień, ryczałt 20 zł (max 160 zł), VPN, zakres stanowisk biurowych.
+- Wersja 1.1 (obowiązująca od 2026-11-12): 3 dni zdalne/tydzień, wyjątek na tydzień ze świętem,
+  max 10 dni zdalnych z zagranicy/rok, ryczałt 20 zł (max 160 zł), VPN, zakres stanowisk biurowych.
 
 ## Known issues and limitations
-- Brak jeszcze: pracy z zagranicy, godzin bazowych, procedur wyjątków, zwrotu sprzętu.
+- Brak jeszcze: godzin bazowych / dni biurowych obowiązkowych, procedur wyjątków poza świętem,
+  zwrotu sprzętu, rozliczania ryczałtu przy niepełnym miesiącu.
 
 ## Last verified
-2026-11-12 – utworzono szkic v1.0.
+2026-11-12 – aktualizacja do v1.1 (limit 3 dni + zagranica + wyjątek świąteczny).

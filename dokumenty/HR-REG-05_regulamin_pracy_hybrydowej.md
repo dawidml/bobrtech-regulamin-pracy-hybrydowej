@@ -3,10 +3,11 @@ id: HR-REG-05
 typ: dokument
 rodzaj: regulamin
 tytul: Regulamin pracy hybrydowej
-wersja: "1.0"
-status: projekt
-obowiazuje_od: (do ustalenia)
-wlasciciel: Dział HR
+wersja: "1.1"
+status: obowiązujący
+obowiazuje_od: 2026-11-12
+nastepny_przeglad: 2027-11-12
+wlasciciel: Dział HR (Anna Kowalska)
 dzial: HR
 klasyfikacja: WEWNĘTRZNE
 uwaga: Dokument szkoleniowy – firma BOBRTECH i osoby są fikcyjne.
@@ -21,10 +22,11 @@ Nie dotyczy pracowników produkcji, magazynu, utrzymania ruchu ani kontroli jako
 
 ## 2. Zasady pracy zdalnej
 
-- Maksymalnie **2 dni pracy zdalnej w tygodniu**.
+- Maksymalnie **3 dni pracy zdalnej w tygodniu**.
 - Wniosek składa się w systemie **Kadrownik** najpóźniej do czwartku poprzedniego tygodnia.
 - Przełożony może odwołać dzień zdalny z przyczyn operacyjnych z wyprzedzeniem 1 dnia.
-- Praca zdalna odbywa się z terytorium Polski.
+- W tygodniu ze **świętem państwowym** przypadającym w środku tygodnia pracownik może – po akceptacji przełożonego w Kadrowniku – przepracować **wszystkie pozostałe dni robocze** danego tygodnia zdalnie.
+- Praca zdalna odbywa się z terytorium Polski. **Praca zdalna z zagranicy: maksymalnie 10 dni roboczych w roku, po zgodzie Działu HR i Działu Prawnego.**
 
 ## 3. Sprzęt i bezpieczeństwo
 
